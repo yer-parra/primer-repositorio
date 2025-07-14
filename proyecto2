@@ -38,9 +38,7 @@ nav ul li a {
     display: block;
 }
 
-nav ul li a:hover {
-    background: #555;
-}
+
 
 main {
     margin-top: 20px;
